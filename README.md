@@ -74,11 +74,11 @@ Some key findings from the bike purchase dashboard:
 
 4. Data can also be further filtered by:
 
-   Marital Status (Single / Married)
+   * Marital Status (Single / Married)
 
-   Region (Europe, North America, Pacific)
+   * Region (Europe, North America, Pacific)
 
-   Education (Partial High School, Partial College, High School, Graduate Degree, Bachelors)
+   * Education (Partial High School, Partial College, High School, Graduate Degree, Bachelors)
 
 These insights help identify the profile of potential customers and support more effective marketing strategies for bike sales.
 
@@ -88,7 +88,7 @@ These insights help identify the profile of potential customers and support more
 
 Final visualization in Excel dashboard:
 
-gambar
+<img src="screenshot/bike_sales_dashboard.png" alt="bike_sales_dashboard" width="500"/>
 
 ---
 
