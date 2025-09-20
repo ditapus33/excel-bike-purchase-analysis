@@ -12,17 +12,17 @@ This repository contains the results of an Excel analysis project using the bike
 
 * **screenshot/** → contains Excel dashboard screenshots.
 
-  bike-sales-dashboard.png
+ * bike-sales-dashboard.png
 
 * **data/ (optional)** → contains dataset files.
 
-  raw-data.xlsx → raw dataset before cleaning.
+  * raw-data.xlsx → raw dataset before cleaning.
 
-  cleaned-data.xlsx → dataset after removing duplicates and applying find & replace.
+  * cleaned-data.xlsx → dataset after removing duplicates and applying find & replace.
 
 * **docs/ (optional)** → contains additional reports.
 
-  report.pdf → PDF version of analysis summary.
+  * report.pdf → PDF version of analysis summary.
 
   ---
 
