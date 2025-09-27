@@ -1,10 +1,10 @@
-**🚴 Excel Project: Bike Purchase Data Analysis**
+# 🚴 Excel Project: Bike Purchase Data Analysis
 
 This repository contains the results of an Excel analysis project using the bike purchase dataset named Excel Project Dataset.xlsx.
 
 ---
 
-**📂 Repository Contents**
+## 📂 Repository Contents
 
 * **Excel Project Dataset.xlsx** → main Excel file containing dataset and analysis.
 
@@ -26,7 +26,7 @@ This repository contains the results of an Excel analysis project using the bike
 
   ---
 
-**📑 About the Dataset**
+## 📑 About the Dataset
 
 The dataset contains bike purchase data with various customer information, such as:
 
@@ -44,7 +44,7 @@ This dataset is suitable for analyzing consumer trends, customer segmentation, a
 
 ---
 
-**🛠️ Data Preparation Steps**
+## 🛠️ Data Preparation Steps
 
 Before creating PivotTables and the dashboard, several cleaning and transformation steps were performed:
 
@@ -62,7 +62,7 @@ Before creating PivotTables and the dashboard, several cleaning and transformati
 
 ---
 
-**🔎 Insights / Findings**
+## 🔎 Insights / Findings
 
 Some key findings from the bike purchase dashboard:
 
@@ -92,7 +92,7 @@ Final visualization in Excel dashboard:
 
 ---
 
-**🚀 How to Use**
+## 🚀 How to Use
 
 1. Clone or download this repository.
 
@@ -104,7 +104,7 @@ Final visualization in Excel dashboard:
 
 --- 
 
-**🛠 Tools Used**
+## 🛠 Tools Used
 
 Microsoft Excel → for data cleaning, transformation, PivotTables, and visualization.
 
